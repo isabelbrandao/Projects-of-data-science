@@ -12,7 +12,7 @@
 **This notebook provides a comprehensive analysis of data from Airbnb listings in Amsterdam, offering valuable insights to help you make informed decisions when selecting accommodations in this enchanting city.**
 
 [https://github.com/isabelbrandao/Projects-of-data-science/blob/main/%5BTemplate%5D_Analisando_os_Dados_do_Airbnb.ipynb)
-
+change the link later, it is too long
 
 ## Other projects will be added here as my data science course advances:
 
