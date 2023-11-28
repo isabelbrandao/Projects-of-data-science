@@ -10,10 +10,9 @@
 ## Project 1 - Data analyses of the Airbnb - Amsterdam
 
 **This notebook provides a comprehensive analysis of data from Airbnb listings in Amsterdam, offering valuable insights to help you make informed decisions when selecting accommodations in this enchanting city.**
-[<sub>DSNP40/EDA_Pandas/working_prj_Analysis_of_Amsterdam_Airbnb_data.ipynb</sub>)
 
-[https://shorturl.at/cp137)
-[https://github.com/isabelbrandao/sigmoidal_data_science/blob/c9e0a23bd946c8b50ab10ac835e9f961ac0c0416/DSNP40/EDA_Pandas/working_prj_Analysis_of_Amsterdam_Airbnb_data.ipynb)
+[https://shorturl.at/cp137) - Analysis of Amsterdam Airbnb data
+
 ## Other projects will be added here as my data science course advances:
 
 ## Project 2 - under construction...
